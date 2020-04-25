@@ -1,5 +1,7 @@
 # Type Definitions for opendata_spec_covid19 (Unofficial)
 
+Type definitions for Japanese COVID19 data format.
+
 ## About the data format
 
 - [新型コロナウイルス感染症対策サイトのためのデータ公開について (総務省)](https://www.soumu.go.jp/main_content/000680542.pdf)
