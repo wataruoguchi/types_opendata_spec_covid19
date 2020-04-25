@@ -1,0 +1,8 @@
+{
+  "name": "types_opendata_spec_covid19",
+  "version": "1.0.0",
+  "description": "Type defenitions for opendata_spec_covid19 that is going to be used widely in Japan (hopefully)",
+  "keywords": [],
+  "author": "Wataru Oguchi <wataru.oguchi.0to1@gmail.com> (https://twitter.com/watarutwt/)",
+  "license": "MIT"
+}
