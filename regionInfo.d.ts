@@ -6,6 +6,6 @@ type regionInfo = {
   namePref: string;
   // 4	市区町村名	必須	"情報の管理主体である地方公共団体名について、市区町村名を記載。
   // ※都道府県については記載不要。"	文字列
-  nameMunicipal: string;
+  nameMunicipal?: string;
 };
 export { regionInfo };
